@@ -1454,5 +1454,17 @@
     "status": "Open",
     "timestamp": "2026-06-03T14:47:55.280Z",
     "profit": 0
+  },
+  {
+    "id": "test_trigger_001",
+    "account": "25449835",
+    "masterAccNum": "25449835",
+    "symbol": "EURUSD",
+    "type": "BUY",
+    "lot": 0.05,
+    "masterLot": 0.05,
+    "status": "Open",
+    "timestamp": "2026-06-03T20:20:00Z",
+    "profit": 0
   }
 ]
