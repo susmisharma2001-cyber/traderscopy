@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 [
   {
     "id": "signal_1780315400195_ogorkw",
@@ -1395,8 +1394,17 @@
     "status": "Open",
     "timestamp": "2026-06-03T08:49:25.694Z",
     "profit": 0
+  },
+  {
+    "id": "test_signal_001",
+    "account": "25449835",
+    "masterAccNum": "25449835",
+    "symbol": "EURUSD",
+    "type": "BUY",
+    "lot": 0.01,
+    "masterLot": 0.01,
+    "status": "Open",
+    "timestamp": "2026-06-03T14:00:00Z",
+    "profit": 0
   }
 ]
-=======
-[]
->>>>>>> 56ae2ef (Save current changes)
