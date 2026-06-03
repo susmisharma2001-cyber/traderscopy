@@ -1442,5 +1442,17 @@
     "status": "Open",
     "timestamp": "2026-06-03T14:45:20.750Z",
     "profit": 0
+  },
+  {
+    "id": "signal_1780498075280_tzigue",
+    "account": "25449835",
+    "masterAccNum": "25449835",
+    "symbol": "USDJPY",
+    "type": "SELL",
+    "lot": 0.1,
+    "masterLot": 0.1,
+    "status": "Open",
+    "timestamp": "2026-06-03T14:47:55.280Z",
+    "profit": 0
   }
 ]
