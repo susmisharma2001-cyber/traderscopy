@@ -1430,5 +1430,17 @@
     "status": "Open",
     "timestamp": "2026-06-03T14:43:20.710Z",
     "profit": 0
+  },
+  {
+    "id": "signal_1780497920750_dkx0sd",
+    "account": "25449835",
+    "masterAccNum": "25449835",
+    "symbol": "EURUSD",
+    "type": "SELL",
+    "lot": 0.01,
+    "masterLot": 0.01,
+    "status": "Open",
+    "timestamp": "2026-06-03T14:45:20.750Z",
+    "profit": 0
   }
 ]
